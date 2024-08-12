@@ -25,3 +25,4 @@ I started coding in 2022, but I've had a desire to enter the world of programmin
 [![](https://visitcount.itsvg.in/api?id=farrellarrafiidris&icon=9&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
