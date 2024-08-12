@@ -1,9 +1,8 @@
 # 💫 About Me:
 I started coding in 2022, but I've had a desire to enter the world of programming since I was in elementary school, grade 4 to be exact, and one of the steps to get started, I entered the IDN Boarding School Bogor, and there I met many "great people" in the field I wanted.
 
-https://github.com/farrellarrrafiidris/farrellarrrafiidris/blob/output/github-contribution-grid-snake.gif
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![snake gif](https://github.com/farrellarrafiidris/farrellarrafiidris/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/farrellarrafiidris/farrellarrafiidris/output/github-contribution-grid-snake.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farrell.a.i) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farrell-idris-a4b460248/) 
