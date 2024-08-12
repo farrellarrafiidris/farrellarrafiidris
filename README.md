@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 About Me: 
+<img src="https://visitcount.itsvg.in/api?id=farrellarrafiidris&icon=9&color=3)](https://visitcount.itsvg.in">
 I started coding in 2022, but I've had a desire to enter the world of programming since I was in elementary school, grade 4 to be exact, and one of the steps to get started, I entered the IDN Boarding School Bogor, and there I met many "great people" in the field I wanted.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -14,24 +15,21 @@ I started coding in 2022, but I've had a desire to enter the world of programmin
 <br>
 <div align="center">
   <img  height=150 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=farrellarrafiidris&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  
   <img height=150 src="https://github-readme-stats-salesp07.vercel.app/api?username=farrellarrafiidris&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br>
   <img style="margin: 0 100" height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrellarrafiidris&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
- 
 </div>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=farrellarrafiidris&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=farrellarrafiidris&theme=radical&no-frame=false&no-bg=false&margin-w=30">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=farrellarrafiidris&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align=center>
+  <h2>🔝 Top Contributed Repo</h2>
+  <br>
+  <img width=500 src="https://github-contributor-stats.vercel.app/api?username=farrellarrafiidris&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="gagal">
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=farrellarrafiidris&icon=9&color=12)](https://visitcount.itsvg.in)
 
 
