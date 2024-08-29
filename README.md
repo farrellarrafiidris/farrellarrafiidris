@@ -1,3 +1,4 @@
+!["HERO"](heroredme.png)
 # 💫 About Me: 
 <img src="https://visitcount.itsvg.in/api?id=farrellarrafiidris&icon=9&color=3)](https://visitcount.itsvg.in">
 I started coding in 2022, but I've had a desire to enter the world of programming since I was in elementary school, grade 4 to be exact, and one of the steps to get started, I entered the IDN Boarding School Bogor, and there I met many "great people" in the field I wanted.
